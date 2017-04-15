@@ -30,7 +30,7 @@ Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 ## data
 - from Lightspeed GMI/Mintel, Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 - see data details at https://github.com/yuccafrita/final-project-ice-cream/
-https://docs.google.com/spreadsheets/d/1RbjKO9GhclznsRs0mGhY6RVIvC2QYjXZxY055fXOSmQ/edit#gid=0
+- figures 1-3: https://docs.google.com/spreadsheets/d/1RbjKO9GhclznsRs0mGhY6RVIvC2QYjXZxY055fXOSmQ/edit#gid=0
 
 ## license
 http://www.highcharts.com is free for personal websites, school sites, or non-profit organizations. Commercial use requires the purchase of a license.
