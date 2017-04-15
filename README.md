@@ -11,6 +11,9 @@ Reasons for buying less frozen treats.  92% of households have purchased frozen 
 Base: 1,845 internet users aged 18+ who have purchased frozen treats in the past six months
 Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 
+## figure 2.  Flavor Dominates Purchase Decision; Indulgence Outperforms Health
+
+
 ## visualization
 
 
