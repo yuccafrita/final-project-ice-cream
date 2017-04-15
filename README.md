@@ -12,7 +12,11 @@ Base: 1,845 internet users aged 18+ who have purchased frozen treats in the past
 Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 
 ## figure 2.  Flavor Dominates Purchase Decision; Indulgence Outperforms Health
+Most important factors influencing frozen purchase frozen treat purchase
+<iframe width="600" height="431.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1RbjKO9GhclznsRs0mGhY6RVIvC2QYjXZxY055fXOSmQ/pubchart?oid=131070730&amp;format=interactive"></iframe>
 
+Base: 1,801 internet users aged 18+ who have purchased frozen treats at retail in the past six months
+Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 
 ## visualization
 
