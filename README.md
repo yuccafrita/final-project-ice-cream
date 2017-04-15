@@ -32,12 +32,8 @@ Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 - see data details at https://github.com/yuccafrita/final-project-ice-cream/
 - figures 1-3: https://docs.google.com/spreadsheets/d/1RbjKO9GhclznsRs0mGhY6RVIvC2QYjXZxY055fXOSmQ/edit#gid=0
 
-## license
-http://www.highcharts.com is free for personal websites, school sites, or non-profit organizations. Commercial use requires the purchase of a license.
-
 ## credits
 - Thanks @ilyankou for seriesMapping data, tooltips, and improving overall code
-- Thanks @andrewbtran at http://TrendCT.org for function to display financial data (with $ and commas)
 
 ## learn more at DataVizForAll.org book
 - Tutorial: Modify and Host a Highcharts Scatter Chart Template on GitHub, https://www.datavizforall.org/github/fork-highcharts
