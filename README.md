@@ -4,8 +4,11 @@ Final Project: Design and Share Your Data Story: April 2017
 ## link to live chart
 https://yuccafrita.github.io/final-project-ice-cream/
 
+## figure 1.  22% of Frozen Treat Buyers are Buying Less
+// <iframe height="800" width="800" src="https://docs.google.com/document/d/1j1TSJ0jQSG_dqp9HuLmJ1joDiafL1lZEZHPN31jgBAo/pub?embedded=true"></iframe>
+
 ## visualization
-<iframe height="800" width="800" src="https://docs.google.com/document/d/1j1TSJ0jQSG_dqp9HuLmJ1joDiafL1lZEZHPN31jgBAo/pub?embedded=true"></iframe>
+
 
 ## data
 - from Lightspeed GMI/Mintel, Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
