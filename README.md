@@ -5,7 +5,7 @@ Final Project: Design and Share Your Data Story: April 2017
 https://yuccafrita.github.io/final-project-ice-cream/
 
 ## visualization
-
+<iframe src="https://docs.google.com/document/d/1j1TSJ0jQSG_dqp9HuLmJ1joDiafL1lZEZHPN31jgBAo/pub?embedded=true"></iframe>
 
 ## data
 - from Lightspeed GMI/Mintel, Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
