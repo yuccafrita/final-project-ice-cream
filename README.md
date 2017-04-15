@@ -18,6 +18,10 @@ Most important factors influencing frozen purchase frozen treat purchase
 Base: 1,801 internet users aged 18+ who have purchased frozen treats at retail in the past six months
 Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 
+## figure 3.  Health Plays a Role for 19% of Frozen Treat Buyers
+Frozen treat buyers say...
+
+
 ## visualization
 
 
