@@ -5,8 +5,7 @@ Final Project: Design and Share Your Data Story: April 2017
 https://yuccafrita.github.io/final-project-ice-cream/
 
 ## figure 1.  22% of Frozen Treat Buyers are Buying Less
-Reasons for buying less frozen treats.  92% of households have purchased frozen treats in the past six months, but 22% indicate reducing purchase.
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1RbjKO9GhclznsRs0mGhY6RVIvC2QYjXZxY055fXOSmQ/pubchart?oid=1253475023&amp;format=interactive"></iframe>
+Reasons for buying less frozen treats.  92% of households have purchased frozen treats in the past six months, but 22% indicate reducing purchase.  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1RbjKO9GhclznsRs0mGhY6RVIvC2QYjXZxY055fXOSmQ/pubchart?oid=1253475023&amp;format=interactive"></iframe>
 
 Base: 1,845 internet users aged 18+ who have purchased frozen treats in the past six months
 Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
