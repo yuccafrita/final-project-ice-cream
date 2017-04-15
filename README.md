@@ -36,5 +36,4 @@ Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 - Thanks @ilyankou for seriesMapping data, tooltips, and improving overall code
 
 ## learn more at DataVizForAll.org book
-- Tutorial: Modify and Host a Highcharts Scatter Chart Template on GitHub, https://www.datavizforall.org/github/fork-highcharts
-- More Highcharts Templates, https://www.datavizforall.org/Highcharts
+- *Data Visualization for All* book http://DataVizForAll.org
