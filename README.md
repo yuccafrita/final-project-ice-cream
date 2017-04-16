@@ -25,7 +25,8 @@ Base: 1,845 internet users aged 18+ who have purchased frozen treats in the past
 Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 
 ## figure 4.  Average Price of Ice Cream Across the World
-
+Top 5 most expensive ice cream is in: United Arab Emirates, New Zealand, France, Sweden and Australia.  Prices: $4.18 to $6.81.
+Bottom 5 most cheapest ice cream is in: Kenya, Morocco, Hungary, Argentina and Iceland. Prices: $0.50 to $0.87.
 <iframe src="https://yuccafrita.github.io/final-project-ice-cream-leaflet-map/" width="800" height="800"></iframe>
 
 Source: http://www.esquire.com/food-drink/a20565/world-ice-cream-prices/. BY ERIC VILAS-BOAS.  Last updated on: March 14, 2013.
@@ -37,6 +38,7 @@ Source: http://www.esquire.com/food-drink/a20565/world-ice-cream-prices/. BY ERI
 - from Lightspeed GMI/Mintel, Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 - see data details at https://github.com/yuccafrita/final-project-ice-cream/
 - figures 1-3: https://docs.google.com/spreadsheets/d/1RbjKO9GhclznsRs0mGhY6RVIvC2QYjXZxY055fXOSmQ/edit#gid=0
+- figure 4:    https://docs.google.com/spreadsheets/d/12Cgx1gsp91OhLpJ8EdXmg4xjR5hihi93KdgMPQnlR0k/edit#gid=0
 
 ## credits
 - Thanks @ilyankou for seriesMapping data, tooltips, and improving overall code
