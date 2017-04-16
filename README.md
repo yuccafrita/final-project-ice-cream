@@ -34,7 +34,8 @@ The average price of an ice cream cone in the U.S. is in the middle range. NYC $
 
 Base: 34 countries. Source: http://www.esquire.com/food-drink/a20565/world-ice-cream-prices/. BY Eric Vilas-Boas, last updated on: March 14, 2013.
 
-## visualization
+## visualization after-thoughts
+Before taking this class, I never thought about mapping would be useful.  I really enjoyed the map design principles and the variety of options to customize a map.  I wish I had more time to play with the scrolling story map and hover over polygon maps.   Thank you for providing simple to understand instructions using free tools like Google Docs/Sheets, Github, Leaflets and Highcharts.  It surprised me that I can create visuals with just a little bit of coding on Github.  I definitely think there is potential to advance my skills in data visualization.  I only learned just the surface level of what these free softwares can do. I can only imagine how much more there is via other open source data sources, Tableau, API, Pull, Socratas, etc.  My next step would be to familiarize myself with Tableau as I recently got the application at my workplace. 
 
 
 ## data
