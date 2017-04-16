@@ -41,6 +41,7 @@ Before taking this class, I never thought about mapping would be useful.  I real
 ## data
 - from Lightspeed GMI/Mintel, Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 - see data details at https://github.com/yuccafrita/final-project-ice-cream/
+- see data details at https://github.com/yuccafrita/final-project-ice-cream-leaflet-map
 - figures 1-3: https://docs.google.com/spreadsheets/d/1RbjKO9GhclznsRs0mGhY6RVIvC2QYjXZxY055fXOSmQ/edit#gid=0
 - figure 4:    https://docs.google.com/spreadsheets/d/12Cgx1gsp91OhLpJ8EdXmg4xjR5hihi93KdgMPQnlR0k/edit#gid=0
 
