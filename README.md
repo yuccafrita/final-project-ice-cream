@@ -26,7 +26,7 @@ Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 
 ## figure 4.  Average Price of Ice Cream Across the World
 
-<iframe src="https://yuccafrita.github.io/final-project-ice-cream-leaflet-map/" width="90%" height="371"></iframe>
+<iframe src="https://yuccafrita.github.io/final-project-ice-cream-leaflet-map/" width="800" height="800"></iframe>
 
 Source: http://www.esquire.com/food-drink/a20565/world-ice-cream-prices/. BY ERIC VILAS-BOAS.  Last updated on: March 14, 2013.
 
