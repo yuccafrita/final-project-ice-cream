@@ -32,7 +32,7 @@ Bottom 5 most cheapest ice cream is in: Kenya, Morocco, Hungary, Argentina and I
 The average price of an ice cream cone in the U.S. is in the middle range. NYC $2; LA $1.75.
 <iframe src="https://yuccafrita.github.io/final-project-ice-cream-leaflet-map/" width="800" height="800"></iframe>
 
-Source: http://www.esquire.com/food-drink/a20565/world-ice-cream-prices/. BY ERIC VILAS-BOAS.  Last updated on: March 14, 2013.
+Base: 34 countries. Source: http://www.esquire.com/food-drink/a20565/world-ice-cream-prices/. BY Eric Vilas-Boas, last updated on: March 14, 2013.
 
 ## visualization
 
