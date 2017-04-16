@@ -24,6 +24,10 @@ Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 Base: 1,845 internet users aged 18+ who have purchased frozen treats in the past six months
 Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 
+## figure 4.  Average Price of Ice Cream Across the World
+
+<iframe src="https://yuccafrita.github.io/final-project-ice-cream-leaflet-map/" width="90%" height="350"></iframe>
+
 ## visualization
 
 
