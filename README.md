@@ -1,7 +1,7 @@
 # final-project-ice-cream
 Final Project: Design and Share Your Data Story: April 2017
 
-## link to live chart
+## link to live website
 https://yuccafrita.github.io/final-project-ice-cream/
 
 ## figure 1.  22% of Frozen Treat Buyers are Buying Less
