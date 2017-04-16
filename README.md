@@ -28,6 +28,8 @@ Source: Lightspeed GMI/Mintel, Ice Cream and Frozen Novelties, U.S., July 2016
 Top 5 most expensive ice cream is in: United Arab Emirates, New Zealand, France, Sweden and Australia.  Prices: $4.18 to $6.81.
 
 Bottom 5 most cheapest ice cream is in: Kenya, Morocco, Hungary, Argentina and Iceland. Prices: $0.50 to $0.87.
+
+The average price of an ice cream cone in the U.S. is in the middle range. NYC $2; LA $1.75.
 <iframe src="https://yuccafrita.github.io/final-project-ice-cream-leaflet-map/" width="800" height="800"></iframe>
 
 Source: http://www.esquire.com/food-drink/a20565/world-ice-cream-prices/. BY ERIC VILAS-BOAS.  Last updated on: March 14, 2013.
